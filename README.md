@@ -1,5 +1,5 @@
 # Programming Massively Parallel Processors
-Exercies codes for textbook 'Programming Massively Parallel Processors (PMPP)'
+Exercise codes for textbook 'Programming Massively Parallel Processors (PMPP)'
 
 ![image](https://github.com/intsoo/Study_Parallel-programming/assets/80330331/4c9c0023-b6c4-47c6-9af7-8877a301c29e)
 
